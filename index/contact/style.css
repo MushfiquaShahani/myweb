@@ -1,0 +1,215 @@
+.navbar {
+    background-color: yellowgreen !important;
+}
+.nav-link {
+    color: whitesmoke !important;
+    font-weight: bold;
+}
+.navbar-brand > img{width: 50px;}
+.fa-shopping-cart {
+    font-size: 25px !important;
+}
+.fa-user-circle-o{
+    font-size: 23px !important;
+}
+.ONE {
+    color: yellowgreen;
+    text-align: center;
+
+}
+.alert-dark{
+    color:whitesmoke;
+    background-color: yellowgreen;
+}
+.btn-light{
+    color: yellowgreen;
+}
+.card-body{
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
+.btn-primary{
+    background-color: whitesmoke;
+    color: yellowgreen;
+}
+
+.card{
+    width: 240px !important
+}
+
+.card-img-top1{
+    width: 110px !important;}
+
+    .card-img-top2{
+        width: 165px;
+        text-align: center;
+    }  
+.card-img-top3{
+    width: 162px;
+}
+
+.alert-dark {
+    margin-top: 18px;
+    display: flex;
+}
+
+
+
+
+ .fa-truck , .fa-headphones , .fa-thumbs-up{
+        font-size: 42px !important;
+
+    }
+.cd1 , .cd2 , .cd3{
+    display: flex;
+    background-color: yellowgreen;
+    color: whitesmoke;
+    width: 25%;
+    height: 100px;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+}
+
+.maincard{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+
+.card-img-top5{
+    height: 200px;
+    
+}
+
+.card-img-top6{
+    height: 200px;
+
+}
+
+.card-img-top7{
+    height: 200px;
+    
+}
+
+.card-img-top8{
+    height: 200px;
+    
+}
+
+.card-img-top5 , .card-img-top6 , .card-img-top7 , .card-img-top8{
+  justify-content: space-around !important;
+}
+
+.btn-light{
+    margin-left: 1000px !important;
+}
+
+.col5,.col6,.col7,.col8{
+    margin-left: 35px !important;
+}
+
+@media screen and (max_width:600px)
+{.cd1,.cd2,.cd3{
+    width: 100%;
+}
+}
+.footer{
+    width: 100%;
+    background-color: yellowgreen;
+    color: whitesmoke;
+    height: 70px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.fa-facebook-official,.fa-instagram,.fa-whatsapp{
+    font-size: 30px !important;
+    justify-content: space-between !important;
+}
+.alert-dark7{
+    background-color: yellowgreen;
+    color: whitesmoke;
+    display: flex;
+    margin-top: 20px !important;
+    
+}
+
+
+
+.a2,.a3{
+    margin-left: 20px;
+}
+.a4{
+    margin-left: 400px !important
+}
+.a5{
+    margin-left: 500px !important;
+    margin-top: 5px !important;
+}
+
+.aboutmain{
+    display: flex !important;
+}
+.a6{
+    width: 250px !important;
+}
+.a7{
+    color: yellowgreen;
+    padding-top: 50px !important;
+}
+
+.a8{
+    color: yellowgreen;
+    margin-top: 30px !important;
+    margin-left: 20px !important;
+}
+  
+
+
+.cd11,.cd12,.cd13{
+    background-color: yellowgreen !important;
+    color: whitesmoke !important;
+    box-shadow: 2px 4px 5px grey !important;
+    width: 300px !important;
+    height: 80px !important;
+    margin-top: 20px !important;
+
+}
+.fa-user-circle{
+    font-size: 30px !important;
+    margin-top: 5px !important;
+}
+.co1{
+    text-align: center;
+    margin-top: 5px !important;
+    color: yellowgreen;
+}
+
+
+.add{
+    color: yellowgreen;
+    margin-top:10px !important ;
+    margin-bottom: 10px !important;
+    margin-left: 10px !important;
+    font-weight: bold;
+
+}
+
+.needs-validation{
+    color: yellowgreen;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+#bon{
+    background-color: yellowgreen !important;
+    color: whitesmoke;
+}
